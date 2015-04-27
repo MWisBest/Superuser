@@ -23,6 +23,7 @@
 #include <paths.h>
 #include <stdio.h>
 #include <stdarg.h>
+#include <log/log.h>
 
 #include "su.h"
 
