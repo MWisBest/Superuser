@@ -52,7 +52,7 @@
   <string name="notification_summary">notificación</string>
   <string name="notifications_summary">Va amosase una %s cuando a una aplicación se-y otorguen o refugen permisos de Superusuariu</string>
   <string name="no_notification">Nun va amosase nenguna notificación</string>
-  <string name="enter_pin">Inxertar PIN</string>
+  <string name="enter_superuser_pin">Inxertar PIN</string>
   <string name="enter_new_pin">Inxertar PIN nuevu</string>
   <string name="incorrect_pin">PIN incorreutu</string>
   <string name="confirm_pin">Confirmar PIN</string>

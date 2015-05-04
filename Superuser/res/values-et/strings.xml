@@ -52,7 +52,7 @@
   <string name="notification_summary">teade</string>
   <string name="notifications_summary">%s on näidatud kui rakendusele on lubatud või keelatud Superkasutaja õigused</string>
   <string name="no_notification">Teadet ei näidata</string>
-  <string name="enter_pin">Sisestage PIN</string>
+  <string name="enter_superuser_pin">Sisestage PIN</string>
   <string name="enter_new_pin">Sisestage Uus PIN</string>
   <string name="incorrect_pin">Vale PIN</string>
   <string name="confirm_pin">Kinnitage PIN</string>

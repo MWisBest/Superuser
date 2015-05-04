@@ -52,7 +52,7 @@
   <string name="notification_summary">දැනුම්දීම</string>
   <string name="notifications_summary">යෙදුමකට සුපිරි පරිශීලක අනුමැතිය ලැබුණු විට හෝ නොලැබුණු විට %sක් පෙන්වයි</string>
   <string name="no_notification">කිසිඳු දැනුම්දීමක් නොපෙන්වයි</string>
-  <string name="enter_pin">PIN ඇතුළත් කරන්න</string>
+  <string name="enter_superuser_pin">PIN ඇතුළත් කරන්න</string>
   <string name="enter_new_pin">නව PIN ඇතුළත් කරන්න</string>
   <string name="incorrect_pin">වැරදි PIN</string>
   <string name="confirm_pin">PIN තහවුරු කරන්න</string>

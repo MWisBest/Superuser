@@ -52,7 +52,7 @@
   <string name="notification_summary">bildirim</string>
   <string name="notifications_summary">Bir uygulamanın Yetklili Kullanıcı isteği kabul ya da red edildiğinde %s görüntülenecek</string>
   <string name="no_notification">Hiçbir bildirim görüntülenmeyecek</string>
-  <string name="enter_pin">PIN\'i girin</string>
+  <string name="enter_superuser_pin">PIN\'i girin</string>
   <string name="enter_new_pin">Yeni PIN girin</string>
   <string name="incorrect_pin">Geçirsiz PIN</string>
   <string name="confirm_pin">PIN\'i doğrulayın</string>

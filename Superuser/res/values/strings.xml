@@ -51,7 +51,7 @@
     <string name="notification_summary">notification</string>
     <string name="notifications_summary">A %s will be shown when an app is granted or denied Superuser permissions</string>
     <string name="no_notification">No notification will be shown</string>
-    <string name="enter_pin">Enter PIN</string>
+    <string name="enter_superuser_pin">Enter PIN</string>
     <string name="enter_new_pin">Enter New PIN</string>
     <string name="incorrect_pin">Incorrect PIN</string>
     <string name="confirm_pin">Confirm PIN</string>

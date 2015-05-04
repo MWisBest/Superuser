@@ -52,7 +52,7 @@
   <string name="notification_summary">notificação</string>
   <string name="notifications_summary">Uma %s será mostrada quando forem permitidas ou negadas permissões de Superuser a uma aplicação.</string>
   <string name="no_notification">Nenhuma notificação será mostrada</string>
-  <string name="enter_pin">Introduza o PIN</string>
+  <string name="enter_superuser_pin">Introduza o PIN</string>
   <string name="enter_new_pin">Introduza o novo PIN</string>
   <string name="incorrect_pin">PIN incorreto</string>
   <string name="confirm_pin">Confirme o PIN</string>

@@ -52,7 +52,7 @@
   <string name="notification_summary">Statusbalkmelding</string>
   <string name="notifications_summary">%s tonen als een app Superuser-toegang krijgt of geweigerd wordt</string>
   <string name="no_notification">Geen melding</string>
-  <string name="enter_pin">Pincode invoeren</string>
+  <string name="enter_superuser_pin">Pincode invoeren</string>
   <string name="enter_new_pin">Nieuwe pincode</string>
   <string name="incorrect_pin">Pincode onjuist</string>
   <string name="confirm_pin">Pincode bevestigen</string>

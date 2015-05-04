@@ -50,7 +50,7 @@
   <string name="notification">Obavijest</string>
   <string name="notifications_summary">%s će biti prikazane kada je aplikacija odobrila ili odbila Superuser dozvolu</string>
   <string name="no_notification">Obavijesti neće biti prikazane</string>
-  <string name="enter_pin">Unesite PIN</string>
+  <string name="enter_superuser_pin">Unesite PIN</string>
   <string name="enter_new_pin">Unesite Nov PIN</string>
   <string name="incorrect_pin">Pogrešan PIN</string>
   <string name="confirm_pin">Potvrdite PIN</string>

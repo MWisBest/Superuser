@@ -52,7 +52,7 @@
   <string name="notification_summary">powiadomienie</string>
   <string name="notifications_summary">%s poinformuje o przyznaniu lub nie uprawnień Superuser</string>
   <string name="no_notification">Żadne powiadomienia nie będą wyświetlane</string>
-  <string name="enter_pin">Wprowadź PIN</string>
+  <string name="enter_superuser_pin">Wprowadź PIN</string>
   <string name="enter_new_pin">Wprowadź nowy PIN</string>
   <string name="incorrect_pin">Niepoprawny PIN</string>
   <string name="confirm_pin">Potwierdź PIN</string>

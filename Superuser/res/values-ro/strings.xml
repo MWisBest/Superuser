@@ -52,7 +52,7 @@
   <string name="notification_summary">notificare</string>
   <string name="notifications_summary">O %s se va afișa când unei aplicații i se acordă sau i se refuză permisiuni de Superuser</string>
   <string name="no_notification">Nici o notificare nu va fi afișată</string>
-  <string name="enter_pin">Introduceți PIN</string>
+  <string name="enter_superuser_pin">Introduceți PIN</string>
   <string name="enter_new_pin">Introduceți noul PIN</string>
   <string name="incorrect_pin">PIN incorect</string>
   <string name="confirm_pin">Confirmați PIN</string>

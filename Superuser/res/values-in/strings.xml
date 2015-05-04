@@ -52,7 +52,7 @@
   <string name="notification_summary">pemberitahuan</string>
   <string name="notifications_summary">%s akan ditampilkan bila aplikasi diberikan atau ditolak izin Superuser-nya</string>
   <string name="no_notification">Tidak ada pemberitahuan yang akan ditampilkan</string>
-  <string name="enter_pin">Masukkan PIN</string>
+  <string name="enter_superuser_pin">Masukkan PIN</string>
   <string name="enter_new_pin">Masukkan PIN baru</string>
   <string name="incorrect_pin">PIN salah</string>
   <string name="confirm_pin">Konfirmasi PIN</string>

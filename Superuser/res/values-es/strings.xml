@@ -52,7 +52,7 @@
   <string name="notification_summary">una notificación</string>
   <string name="notifications_summary">Se mostrará %s cuando se conceda o deniegue el acceso administrativo a una aplicación.</string>
   <string name="no_notification">No se mostrará ninguna notificación</string>
-  <string name="enter_pin">Introducir PIN</string>
+  <string name="enter_superuser_pin">Introducir PIN</string>
   <string name="enter_new_pin">Introducir nuevo PIN</string>
   <string name="incorrect_pin">PIN incorrecto</string>
   <string name="confirm_pin">Confirmar PIN</string>

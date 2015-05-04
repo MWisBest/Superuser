@@ -52,7 +52,7 @@
   <string name="notification_summary">notifikasjon</string>
   <string name="notifications_summary">En %s vil bli vist når en app får innvilget eller blir nektet Superuser tilgang</string>
   <string name="no_notification">Ingen varsling vil bli vist</string>
-  <string name="enter_pin">Velg PIN-kode</string>
+  <string name="enter_superuser_pin">Velg PIN-kode</string>
   <string name="enter_new_pin">Velg ny PIN-kode</string>
   <string name="incorrect_pin">Feil PIN-kode</string>
   <string name="confirm_pin">Bekreft PIN-koden</string>

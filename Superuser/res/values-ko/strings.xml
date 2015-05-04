@@ -52,7 +52,7 @@
   <string name="notification_summary">알림</string>
   <string name="notifications_summary">애플리케이션에 슈퍼유저 권한이 허가 또는 거부될 때 %s 표시</string>
   <string name="no_notification">알림을 표시하지 않음</string>
-  <string name="enter_pin">PIN 입력</string>
+  <string name="enter_superuser_pin">PIN 입력</string>
   <string name="enter_new_pin">새로운 PIN 입력</string>
   <string name="incorrect_pin">잘못된 PIN</string>
   <string name="confirm_pin">PIN 확인</string>

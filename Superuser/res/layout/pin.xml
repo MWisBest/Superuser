@@ -15,7 +15,7 @@
         android:editable="false"
         android:enabled="false"
         android:gravity="center"
-        android:hint="@string/enter_pin"
+        android:hint="@string/enter_superuser_pin"
         android:maxLines="1"
         android:padding="@dimen/section_padding"
         android:password="true"

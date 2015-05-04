@@ -50,7 +50,7 @@
   <string name="notification">Avisering</string>
   <string name="notifications_summary">En %s visas när en app beviljas eller nekas Superuserrättigheter</string>
   <string name="no_notification">Ingen avisering kommer att visas</string>
-  <string name="enter_pin">Ange PIN</string>
+  <string name="enter_superuser_pin">Ange PIN</string>
   <string name="enter_new_pin">Ange ny PIN</string>
   <string name="incorrect_pin">Felaktig PIN</string>
   <string name="confirm_pin">Bekräfta PIN</string>

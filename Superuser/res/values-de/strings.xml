@@ -52,7 +52,7 @@
   <string name="notification_summary">Benachrichtigung</string>
   <string name="notifications_summary">Eine %s anzeigen, wenn einer App Superuser-Rechte gewährt oder verweigert werden</string>
   <string name="no_notification">Keine Benachrichtigungen anzeigen</string>
-  <string name="enter_pin">PIN eingeben</string>
+  <string name="enter_superuser_pin">PIN eingeben</string>
   <string name="enter_new_pin">Neue PIN eingeben</string>
   <string name="incorrect_pin">Falsche PIN</string>
   <string name="confirm_pin">PIN bestätigen</string>

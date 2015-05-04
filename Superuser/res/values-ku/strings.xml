@@ -52,7 +52,7 @@
   <string name="notification_summary">ئاگادارکەرەوە</string>
   <string name="notifications_summary">A %s نیشانی دەدات هەر بەرنامەیەک ڕێگەی پێدرابێت یان ڕێگەی پێنەدرابێت بۆ دەسەڵاتی سوپەریوزەر</string>
   <string name="no_notification">هیچ ئاگادارییەک نیشان نادرێت</string>
-  <string name="enter_pin">دانانی PIN</string>
+  <string name="enter_superuser_pin">دانانی PIN</string>
   <string name="enter_new_pin">دانانی PIN تازه‌</string>
   <string name="incorrect_pin">PIN نادروستە</string>
   <string name="confirm_pin">دڵنیاکردنه‌وه‌ی PIN</string>

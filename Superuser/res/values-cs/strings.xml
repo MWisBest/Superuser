@@ -52,7 +52,7 @@
   <string name="notification_summary">upozornění</string>
   <string name="notifications_summary">Zobrazit %s při udělení povolení nebo zákazu oprávnění Superuser</string>
   <string name="no_notification">Nebude zobrazeno žádné upozornění</string>
-  <string name="enter_pin">Zadat PIN</string>
+  <string name="enter_superuser_pin">Zadat PIN</string>
   <string name="enter_new_pin">Zadat nový PIN</string>
   <string name="incorrect_pin">Neplatný PIN</string>
   <string name="confirm_pin">Potvrdit PIN</string>

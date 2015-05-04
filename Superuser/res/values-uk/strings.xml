@@ -52,7 +52,7 @@
   <string name="notification_summary">сповіщення</string>
   <string name="notifications_summary">Буде показано %s коли програма отримує чи ні права Суперкористувача</string>
   <string name="no_notification">Сповіщення вимкнені</string>
-  <string name="enter_pin">Введіть PIN-код</string>
+  <string name="enter_superuser_pin">Введіть PIN-код</string>
   <string name="enter_new_pin">Введіть новий PIN-код</string>
   <string name="incorrect_pin">Неправильний PIN-код</string>
   <string name="confirm_pin">Підтвердіть PIN-код</string>

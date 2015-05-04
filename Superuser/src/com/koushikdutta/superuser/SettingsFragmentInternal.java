@@ -93,7 +93,7 @@ public class SettingsFragmentInternal extends BetterListFragmentInternal {
     void checkPin() {
         if (Settings.isPinProtected(getActivity())) {
             final Dialog d = new Dialog(getContext());
-            d.setTitle(R.string.enter_pin);
+            d.setTitle(R.string.enter_superuser_pin);
             d.setContentView(new PinViewHelper((LayoutInflater)getContext().getSystemService(Context.LAYOUT_INFLATER_SERVICE), null, null) {
                 public void onEnter(String password) {
                     super.onEnter(password);

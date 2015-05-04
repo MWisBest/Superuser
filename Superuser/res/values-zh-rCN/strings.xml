@@ -52,7 +52,7 @@
   <string name="notification_summary">通知</string>
   <string name="notifications_summary">当应用被允许或拒绝时将显示一个%s</string>
   <string name="no_notification">不显示通知</string>
-  <string name="enter_pin">输入密码</string>
+  <string name="enter_superuser_pin">输入密码</string>
   <string name="enter_new_pin">输入新的密码</string>
   <string name="incorrect_pin">密码不正确</string>
   <string name="confirm_pin">确认密码</string>

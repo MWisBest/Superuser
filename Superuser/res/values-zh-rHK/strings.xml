@@ -52,7 +52,7 @@
   <string name="notification_summary">通知</string>
   <string name="notifications_summary">當應用程式被批准或拒絕取得超級使用者權限後，會顯示%s。</string>
   <string name="no_notification">不會顯示通知</string>
-  <string name="enter_pin">輸入 PIN 碼</string>
+  <string name="enter_superuser_pin">輸入 PIN 碼</string>
   <string name="enter_new_pin">輸入新的 PIN 碼</string>
   <string name="incorrect_pin">PIN 碼不正確</string>
   <string name="confirm_pin">確認 PIN 碼</string>

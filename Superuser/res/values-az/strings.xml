@@ -52,7 +52,7 @@
   <string name="notification_summary">bildiriş</string>
   <string name="notifications_summary">Bir app Superuser icazələrin verilə və ya inkar zaman %s nümayiş olunacaq</string>
   <string name="no_notification">Xəbərdarlıqlar görüntülənməyəcək</string>
-  <string name="enter_pin">PİN-i daxil et</string>
+  <string name="enter_superuser_pin">PİN-i daxil et</string>
   <string name="enter_new_pin">Yeni PİN daxil et</string>
   <string name="incorrect_pin">Səhv PİN</string>
   <string name="confirm_pin">PİN-i təsdiqlə</string>

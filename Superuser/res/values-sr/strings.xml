@@ -52,7 +52,7 @@
   <string name="notification_summary">обавештење</string>
   <string name="notifications_summary">%s ће бити приказан када је апликација одобрена или одбијена од Суперкорисника</string>
   <string name="no_notification">Ниједно обавештење неће бити приказано</string>
-  <string name="enter_pin">Унеси PIN</string>
+  <string name="enter_superuser_pin">Унеси PIN</string>
   <string name="enter_new_pin">Унеси нови PIN</string>
   <string name="incorrect_pin">Нетачан PIN</string>
   <string name="confirm_pin">Потврди PIN</string>

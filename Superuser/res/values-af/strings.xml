@@ -52,7 +52,7 @@
   <string name="notification_summary">kennisgewing</string>
   <string name="notifications_summary">\'n %s sal getoon word wanneer \'n program Superuser regte toegeken of geweier word</string>
   <string name="no_notification">Geen kennisgewings sal vertoon word nie</string>
-  <string name="enter_pin">Voer PIN in</string>
+  <string name="enter_superuser_pin">Voer PIN in</string>
   <string name="enter_new_pin">Gee \'n nuwe PIN</string>
   <string name="incorrect_pin">Verkeerde PIN</string>
   <string name="confirm_pin">Bevestig PIN</string>

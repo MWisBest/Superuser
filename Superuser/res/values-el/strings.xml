@@ -52,7 +52,7 @@
   <string name="notification_summary">Μια ειδοποίηση</string>
   <string name="notifications_summary">%s θα εμφανίζεται όταν επιτρέπονται ή αρνούνται σε μια εφαρμογή τα δικαιώματα Superuser</string>
   <string name="no_notification">Δεν θα εμφανίζεται ειδοποίηση</string>
-  <string name="enter_pin">Εισαγωγή PIN</string>
+  <string name="enter_superuser_pin">Εισαγωγή PIN</string>
   <string name="enter_new_pin">Εισάγετε νέο PIN</string>
   <string name="incorrect_pin">Λανθασμένο PIN</string>
   <string name="confirm_pin">Επιβεβαίωση PIN</string>

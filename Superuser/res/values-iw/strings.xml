@@ -52,7 +52,7 @@
   <string name="notification_summary">התראה</string>
   <string name="notifications_summary">%s יוצג כאשר אפליקציה אושרה או נדחתה מלקבל הרשאות של Superuser</string>
   <string name="no_notification">התראות לא יוצגו</string>
-  <string name="enter_pin">הכנס PIN</string>
+  <string name="enter_superuser_pin">הכנס PIN</string>
   <string name="enter_new_pin">הכנס PIN חדש</string>
   <string name="incorrect_pin">לא נכון PIN</string>
   <string name="confirm_pin">אשר PIN</string>

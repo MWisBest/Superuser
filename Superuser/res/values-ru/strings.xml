@@ -52,7 +52,7 @@
   <string name="notification_summary">уведомление в строке состояния</string>
   <string name="notifications_summary">Будет показано %s о предоставлении прав Суперпользователя</string>
   <string name="no_notification">Уведомления отключены</string>
-  <string name="enter_pin">Введите PIN-код</string>
+  <string name="enter_superuser_pin">Введите PIN-код</string>
   <string name="enter_new_pin">Введите новый PIN-код</string>
   <string name="incorrect_pin">Неправильный PIN-код</string>
   <string name="confirm_pin">Подтвердите PIN-код</string>

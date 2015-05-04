@@ -52,7 +52,7 @@
   <string name="notification_summary">Ilmoitus</string>
   <string name="notifications_summary">%s näytetään, kun sovellukselle myönnetään/estetään pääkäyttäjän oikeudet</string>
   <string name="no_notification">Ilmoitusta ei näytetä</string>
-  <string name="enter_pin">Syötä PIN</string>
+  <string name="enter_superuser_pin">Syötä PIN</string>
   <string name="enter_new_pin">Syötä uusi PIN</string>
   <string name="incorrect_pin">Väärä PIN</string>
   <string name="confirm_pin">Vahvista PIN</string>

@@ -32,7 +32,7 @@
   <string name="delete">Läschen</string>
   <string name="none">Keen</string>
   <string name="notification">Notifikatioun</string>
-  <string name="enter_pin">PIN aginn</string>
+  <string name="enter_superuser_pin">PIN aginn</string>
   <string name="enter_new_pin">Neie PIN aginn</string>
   <string name="incorrect_pin">Inkorrekte PIN</string>
   <string name="confirm_pin">PIN confirméieren</string>

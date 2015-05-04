@@ -52,7 +52,7 @@
   <string name="notification_summary">通知</string>
   <string name="notifications_summary">スーパーユーザー権限がアプリに許可または拒否されたときに%sを表示する</string>
   <string name="no_notification">通知は表示されません</string>
-  <string name="enter_pin">PINを入力</string>
+  <string name="enter_superuser_pin">PINを入力</string>
   <string name="enter_new_pin">新しいPINを入力</string>
   <string name="incorrect_pin">PINが正しくありません</string>
   <string name="confirm_pin">PINの確認</string>
